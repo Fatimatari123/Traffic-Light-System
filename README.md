@@ -18,3 +18,5 @@ The circuit contains Arduino UNO R3 , Breadboard, resistors 220 ohm, LEDS RED,YE
 
 
 <img width="1280" height="568" alt="Spectacular Bruticus" src="https://github.com/user-attachments/assets/5887555f-bc96-4f6f-8caf-53f65821c13a" />
+
+https://www.tinkercad.com/things/flsRNtXA4IB-traffic-light-system
